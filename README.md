@@ -21,7 +21,7 @@ Finally, open a terminal and write command: ``python main.py``. (Python command 
 <h2>Screenshots:</h2>
 
 <h3>Panel to open ticket:</h3>
-![open](https://github.com/xZexius/Ticketing-System-DiscordPy/issues/1#issue-2128247419)
+<img src="https://i.imgur.com/YPn42Ji.png"></img>
 
 
 <h3>Panel to close ticket:</h3>
